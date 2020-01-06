@@ -1,4 +1,4 @@
-<center><h1> Configurando o projeto GymPOINT <h1></center>
+<center><h1> Configurando o projeto GymPOINT - Frontend <h1></center>
 
 # Frontend
 
